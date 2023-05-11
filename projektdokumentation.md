@@ -71,13 +71,13 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 3.B  | 25.05      |           |   Filterkriterein den Gerichten zuordnen      |    75 Minuten           |
 | 5  | 25.05      |           |   Sprache der Website auf Französisch übersetzen     | 80 Minuten              |
 | 5.A  | 25.05      |           |   Sprache der Website auf Englisch übersetzen           |  45 Minuten             |
-| 6  |  01.06  |           | Die Gerichte sind klickbar             |               |45 Minuten
+| 6  |  25.05  |           | Die Gerichte sind klickbar             |     45 Minuten|
 | 7  | 01.06 |           | Das Klicken führt zu einer Unterseite             |   50 Minuten            |
 | 8  | 01.06 |           | Das Gericht wird genauer beschrieben(Bild/Text)|    20 Minuten           |
-| 9  |       |           |  TodoListe für die Zutaten            |    45 Minuten           |
-| 9.A  |       |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
-| 10  |       |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
-| 10.A  |       |           |   Nach jedem erledigtem Schritt, wird der nächste Schritt angezeigt           | 75 Minuten              |
+| 9  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
+| 9.A  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
+| 10  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
+| 10.A  |  08.06     |           |   Nach jedem erledigtem Schritt, wird der nächste Schritt angezeigt           | 75 Minuten              |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
