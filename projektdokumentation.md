@@ -30,8 +30,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 |6    |muss|Funkional|Als Benutzer möchte ich, dass ich auf die Gerichte klicken kann, damit ich zu einer Seite weitergeleitet werde, wo ich eine TodoListe sehe zu den Zutaten und Schritten|
 |7    |muss|Qualität|Als Benutzer möchte ich, dass ich direkt nach den Gerichten in einer Suchleiste suchen kann, damit wenn ich mich schon für ein Gericht entschieden habe, es direkt finden kann.|
 |8    |kann|Qualität|Als Benutzer möchte ich, dass wenn ich auf die Gerichte klicke, es mir genauere Infos über das Gericht gibt, zum Beispiel woher es genau kommt und für was es bekannt ist.|
-|9    ||||
-|10   ||||
+
 
 
 Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -59,14 +58,14 @@ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  18.05     |           | Titel hinzufügen  |               |
+| 2  |  18.05     |           |              |               |
+| 3  |  18.05     |           |              |               |
+| 4  |       |           |              |               |
+| 5  |       |           |              |               |
+| 6  |       |           |              |               |
+| 7  |       |           |              |               |
+| 8  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
