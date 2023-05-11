@@ -33,15 +33,22 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 
 
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Eine Tageszeit wurde Ausgewählt| Ein Gericht wird angeklickt | Es wird angezeigt, welche Zutaten noch benötigt werden |
 | 1.2  | Es wurde ein Gericht ausgewählt | Das Kästchen neben einer Zutat wird angeklickt | Im kästchen erscheint ein Häckchen |
-| 2.1  | Es wurde eine Tageszeit ausgewählt | Es wird etwas in die Suche eingegeben | Es erscheinen Gerichte, die die gesuchten Wörter enthalten |
 | 2.2  | Es wurde eine Tageszeit ausgewählt | Es wird unter "Filter" ein Element angeklickt | Es erscheinen nur Gerichte, die dem Filter entsprechen |
+| 3.1  | Die Webseite wurde geöffnet | keine | Es wird eine Liste Mit 3 Tageszeiten angezeigt |
+| 3.2  | Die Webseite wurde geöffnet | Eine Tageszeit wird angeklickt | Es werden Passende Rezepte angezeigt |
+| 4.1  | Auf irgendeiner Seite der Webseite | Keine | Es wird am rechten Rand die Sprachauswahl angezeigt |
+| 4.2  | Auf irgendeiner Seite der Webseite | Es wird eine Andere Sprache geklickt | Der Text wird in der ausgewählten Sprache angezeigt |
+| 5.1  | Eine Tageszeit wurde Ausgewählt  | Es wird ein Rezept angeklickt | Es werden 2 To-Do Listen angezeigt |
+| 6.1  | Eine Tageszeit wurde Ausgewählt  | Es wird ein Rezept angeklickt | Es werden Bild, Text und To-Do Listen des Gerichtes angezeigt |
+| 7.1  | Auf irgendeiner Seite der Webseite  | Es wird auf das Suchen-Element geklickt | Es kann nun der Name eines Gerichtes eingegeben werden |
+| 7.2  | Auf irgendeiner Seite der Webseite | Es wird etwas in die Suche eingegeben | Es erscheinen Gerichte, die die gesuchten Wörter enthalten |
+| 8.1  | Eine Tageszeit wurde Ausgewählt | Es wird ein Rezept angeklickt | Neben dem Bild steht ein Text, der Infos zum Gericht enthält |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
