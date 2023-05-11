@@ -50,7 +50,10 @@ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![MicrosoftTeams-image (4)](https://github.com/NathanielConstructive/LA1600/assets/111046193/85fe1047-497d-4685-8b0e-64c30984070e)
+![WhatsApp Image 2023-05-11 at 09 54 44](https://github.com/NathanielConstructive/LA1600/assets/111046193/d8b2e1cd-f6f2-4d22-9ee3-3fa1029101f6)
+![WhatsApp Image 2023-05-11 at 09 54 44 (1)](https://github.com/NathanielConstructive/LA1600/assets/111046193/702bc3f3-e8ab-4068-b597-40ae5ac6c7d3)
+
 
 ## 2 Planen
 
@@ -90,9 +93,6 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-![MicrosoftTeams-image (4)](https://github.com/NathanielConstructive/LA1600/assets/111046193/85fe1047-497d-4685-8b0e-64c30984070e)
-![WhatsApp Image 2023-05-11 at 09 54 44](https://github.com/NathanielConstructive/LA1600/assets/111046193/d8b2e1cd-f6f2-4d22-9ee3-3fa1029101f6)
-![WhatsApp Image 2023-05-11 at 09 54 44 (1)](https://github.com/NathanielConstructive/LA1600/assets/111046193/702bc3f3-e8ab-4068-b597-40ae5ac6c7d3)
 
 ## 4 Realisieren
 
