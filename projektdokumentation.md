@@ -58,14 +58,14 @@ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  18.05     |           | Titel hinzufügen  |               |
+| 1  |  18.05     |           | Titel hinzufügen  |  20 Minuten             |
 | 2  |  18.05     |           | Gerichte raussuchen (Mit Informationen) | 45 Minuten |
-|2.A  |18.05 |             |  Gerichte hinzufügen inklusive Bilder        |                 |
-| 3  |  18.05     |           | Suchleiste hinzufügen             |               |
-| 4  | 18.05      |           |   Filterkriterien hinzufügen           |               |
-| 5  | 25.05      |           |   Filterkriterein den Gerichten zuordnen      |               |
-| 6  | 25.05      |           |              |               |
-| 7  | 25.05      |           |              |               |
+|2.A  |18.05 |             |  Gerichte hinzufügen inklusive Bilder        |    45 Minuten             |
+| 3  |  18.05     |           | Suchleiste hinzufügen (funktionierend)            |    45 Minuten           |
+| 4  | 18.05      |           |   Filterkriterien hinzufügen           |    45 Minuten           |
+| 5  | 25.05      |           |   Filterkriterein den Gerichten zuordnen      |    75 Minuten           |
+| 6  | 25.05      |           |   Sprache der Website auf Französisch übersetzen     | 80 Minuten              |
+| 7  | 25.05      |           |   Sprache der Website auf Englisch übersetzen           |  45 Minuten             |
 | 8  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
