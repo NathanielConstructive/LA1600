@@ -1,42 +1,12 @@
-/* Hintergrundfarbe festlegen */
-body {
-	background-color: #F5F5F5;
+#taktischertitel {
+    font-family: 'Sigmar', cursive;
 }
 
-/* Styling für den Rezeptcontainer */
-.recipe {
-	margin: 50px auto;
-	padding: 20px;
-	width: 600px;
-	background-color: #FFFFFF;
-	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Styling für die Überschriften */
-h1 {
-	font-size: 36px;
-	text-align: center;
-}
-
-h2 {
-	font-size: 24px;
-	margin-top: 20px;
-}
-
-/* Styling für die Listen */
-ul, ol {
-	margin-left: 40px;
-	font-size: 18px;
-	line-height: 1.5;
-}
-
-li {
-	margin-bottom: 10px;
-}
-
-/* Styling für die Textelemente */
-p {
-	font-size: 18px;
-	line-height: 1.5;
-	margin-bottom: 20px;
+.box {
+    display: inline-block;
+    padding: 10px;
+    background-color: #f2f2f2;
+    color: #333;
+    border-radius: 5px;
+    text-decoration: none;
 }
