@@ -2,7 +2,7 @@
 
 
 
-✍️ Blackberry - Müller, Özden, Meier
+Blackberry - Müller, Özden, Meier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
