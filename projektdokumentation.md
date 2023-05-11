@@ -25,7 +25,8 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 1    |    muss             | Qualität     | Als ein Benutzer möchte ich eine Todoliste, damit ich weiss welche Zutaten ich noch für mein Gericht brauche. |
 | 2  |    kann             | Funktionslität     | Als ein Benutzer möchte ich nach Rezepten suchen und filtern können, damit ich nach Kriterien Gerichte aussuchen kann.                                   |
 |3    |   kann                | Qualität    |    Als Benutzer möchte ich Gerichte je nach Tageszeit auswählen, damit bessere Gerichte für jetzt finden kann.|
-|4    |                   |       |                                    |
+|4    |  kann                 | Qualität      |  Als Benutzer möchte ich die Sprache ändern können, damit wenn ich schlechtes Deutsch spreche, ich auf Englisch wechseln kann.                                  |
+|5    |  muss                 | Funktionalität      | Als Benutzer möchte ich eine TodoListe haben die mir die Schritte sagt, die ich für das Gericht befolgen muss, damit wenn ich ein Gericht zubereiten möchte, welches ich nicht kenne, ich es trotzdem kochen oder backen kann.                |
 
 
 Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
