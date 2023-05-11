@@ -32,8 +32,11 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Eine Tageszeit wurde Ausgewählt| Ein Gericht wird angeklickt | Es wird angezeigt, welche Zutaten noch benötigt werden |
+| 1.2  | Es wurde ein Gericht ausgewählt | Das Kästchen neben einer Zutat wird angeklickt | Im kästchen erscheint ein Häckchen |
+| 2.1  | Es wurde eine Tageszeit ausgewählt | Es wird etwas in die Suche eingegeben | Es erscheinen Gerichte, die die gesuchten Wörter enthalten |
+| 2.2  | Es wurde eine Tageszeit ausgewählt | Es wird unter "Filter" ein Element angeklickt | Es erscheinen nur Gerichte, die dem Filter entsprechen |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
