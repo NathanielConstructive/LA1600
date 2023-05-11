@@ -23,12 +23,12 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    muss             | Qualität     | Als ein Benutzer möchte ich eine Todoliste, damit ich weiss welche Zutaten ich noch für mein Gericht brauche. |
-| 2  |    kann             | Funktionslität     | Als ein Benutzer möchte ich nach Rezepten suchen und filtern können, damit ich nach Kriterien Gerichte aussuchen kann.                                   |
+| 2  |    kann             | Funktionslität     | Als ein Benutzer möchte ich nach Rezepten filtern können, damit ich nach Kriterien Gerichte aussuchen kann.                                   |
 |3    |   kann                | Qualität    |    Als Benutzer möchte ich Gerichte je nach Tageszeit auswählen, damit bessere Gerichte für jetzt finden kann.|
 |4    |  kann                 | Qualität      |  Als Benutzer möchte ich die Sprache ändern können, damit wenn ich schlechtes Deutsch spreche, ich auf Englisch wechseln kann.                                  |
 |5    |  muss                 | Funktionalität      | Als Benutzer möchte ich eine TodoListe haben die mir die Schritte sagt, die ich für das Gericht befolgen muss, damit wenn ich ein Gericht zubereiten möchte, welches ich nicht kenne, ich es trotzdem kochen oder backen kann.                |
 |6    |muss|Funkional|Als Benutzer möchte ich, dass ich auf die Gerichte klicken kann, damit ich zu einer Seite weitergeleitet werde, wo ich eine TodoListe sehe zu den Zutaten und Schritten|
-|7    ||||
+|7    |muss|Qualität|Als Benutzer möchte ich, dass ich direkt nach den Gerichten in einer Suchleiste suchen kann, damit wenn ich mich schon für ein Gericht entschieden habe, es direkt finden kann.|
 |8    ||||
 |9    ||||
 |10   ||||
