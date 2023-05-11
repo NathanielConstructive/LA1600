@@ -1,12 +1,12 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+
+✍️ Blackberry - Müller, Özden, Meier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 11.05 | 0.0.1   | Erster Prototyp der Website. |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,9 +14,9 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Projekt machen wir eine Rezept-Website über verschiedene Gerichte und wann diese am besten schmecken.
+Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (inklusive ToDo-Liste) für dieses. 
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
 ### 1.2 User Stories
 
