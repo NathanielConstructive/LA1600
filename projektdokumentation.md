@@ -55,7 +55,8 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 ### 1.4 Diagramme
 
-![MicrosoftTeams-image (4)](https://github.com/NathanielConstructive/LA1600/assets/111046193/85fe1047-497d-4685-8b0e-64c30984070e)
+![Screenshot 2023-05-11 143613](https://github.com/NathanielConstructive/LA1600/assets/111043950/3d8fba71-c7ce-432f-a258-3cca8d480d9f)
+
 ![WhatsApp Image 2023-05-11 at 09 54 44](https://github.com/NathanielConstructive/LA1600/assets/111046193/d8b2e1cd-f6f2-4d22-9ee3-3fa1029101f6)
 ![WhatsApp Image 2023-05-11 at 09 54 44 (1)](https://github.com/NathanielConstructive/LA1600/assets/111046193/702bc3f3-e8ab-4068-b597-40ae5ac6c7d3)
 
