@@ -1,6 +1,11 @@
 #taktischertitel {
     font-family: 'Sigmar', cursive;
     text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .box {
@@ -11,3 +16,4 @@
     border-radius: 5px;
     text-decoration: none;
 }
+
