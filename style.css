@@ -1,6 +1,5 @@
 #taktischertitel {
     font-family: 'Sigmar', cursive;
-    text-align: center;
     display: flex; 
     justify-content:space-between; 
     flex-wrap: wrap;
