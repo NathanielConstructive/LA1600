@@ -1,27 +1,53 @@
-#taktischertitel {
-    font-family: 'Sigmar', cursive;
-    position: -webkit-sticky; 
-    text-align: center;
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
     background-color: #fff;
     padding: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 100;
 }
 
-.foodpics {
-   height: 7cm;
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   text-align: center;
+#title {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(18, 4, 69);
+    height: 80px;
 }
 
-.text-essen {
-    font-family: 'Sigmar', cursive; 
-    text-align: center; 
+#navigation {
+    text-align: center;
+    margin-top: 10px;
+    float: right;
 }
 
+.navigation a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+}
 
-<footer> {
-    font-family: Roboto, sans-serif;
+.content {
+    padding: 20px;
+}
 
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.headline {
+    float: right;
+    font-size: large;
+}
+
+.headline2 {
+    float: left;
+    font-size: large;
 }
