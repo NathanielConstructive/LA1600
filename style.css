@@ -10,12 +10,15 @@ header {
     background-color: #fff;
     padding: 10px;
     z-index: 100;
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    font-stretch: ultra-condensed;
 }
 
 #title {
     font-size: 40px;
     text-align: center;
-    color: rgb(18, 4, 69);
+    color: rgb(74, 15, 94);
     height: 80px;
 }
 
@@ -28,7 +31,7 @@ header {
 .navigation a {
     margin: 0 10px;
     text-decoration: none;
-    color: #000;
+    color: #250539;
 }
 
 .content {
@@ -45,9 +48,11 @@ header {
 .headline {
     float: right;
     font-size: large;
+    top: 0;
 }
 
 .headline2 {
     float: left;
     font-size: large;
+    top: 0;
 }
