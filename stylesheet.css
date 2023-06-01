@@ -57,3 +57,11 @@ header {
     font-size: large;
     top: 0;
 }
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
