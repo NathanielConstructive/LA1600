@@ -58,10 +58,4 @@ header {
     top: 0;
 }
 
-.text {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 25vh; 
-}
 
