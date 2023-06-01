@@ -28,7 +28,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 |4    |  kann                 | Qualität      |  Als Benutzer möchte ich die Sprache ändern können, damit wenn ich schlechtes Deutsch spreche, ich auf Englisch wechseln kann.                                  |
 |5    |  muss                 | Funktionalität      | Als Benutzer möchte ich eine TodoListe haben die mir die Schritte sagt, die ich für das Gericht befolgen muss, damit wenn ich ein Gericht zubereiten möchte, welches ich nicht kenne, ich es trotzdem kochen oder backen kann.                |
 |6    |muss|Funkional|Als Benutzer möchte ich, dass ich auf die Gerichte klicken kann, damit ich zu einer Seite weitergeleitet werde, wo ich eine TodoListe sehe zu den Zutaten und Schritten|
-|7  |kann|Qualität|Als Benutzer möchte ich, dass wenn ich auf die Gerichte klicke, es mir genauere Infos über das Gericht gibt, zum Beispiel woher es genau kommt und für was es bekannt ist.|
+
 
 
 
