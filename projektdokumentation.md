@@ -35,7 +35,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Eine Tageszeit wurde Ausgewählt| Ein Gericht wird angeklickt | Es wird angezeigt, welche Zutaten noch benötigt werden |
+| 1.1  | Die Webseite wurde geöffnet| Ein Gericht wird angeklickt | Es wird angezeigt, welche Zutaten noch benötigt werden |
 | 1.2  | Es wurde ein Gericht ausgewählt | Das Kästchen neben einer Zutat wird angeklickt | Im kästchen erscheint ein Häckchen |
 | 2.1  | Es wurde eine Tageszeit ausgewählt | Es wird unter "Filter" ein Element angeklickt | Es erscheinen nur Gerichte, die dem Filter entsprechen |
 | 3.1  | Die Webseite wurde geöffnet | keine | Es wird eine Liste Mit 3 Tageszeiten angezeigt |
