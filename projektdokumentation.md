@@ -93,12 +93,12 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 |3.B|||||
 |4.A|||||
 |4.B|||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|5.A|01.06|Özden|50 Minuten|20 Minuten|
+|5.B|||||
+|5.C|||||
+|6.A|01.06|Özden|45 Minuten|35 Minuten|
+|6.B|||||
+|6.C|||||
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
