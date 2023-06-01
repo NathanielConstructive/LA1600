@@ -80,7 +80,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Texte dazu anzeigt, man kann auf der Startseite runter scrollen und auf die Gerichte klicken. Dazu sieht man oben links noch einen Filter, den man je nach belieben benutzen kann. Nach dem Klicken auf das Gericht, wird man auf eine neue Website weitergeleitet, die eine TodoListe zu den jeweiligen Gerichten zeigt. Welche Rezepte braucht man und wie muss man vorgehen. 
+Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Texte dazu anzeigt, man kann auf der Startseite runter scrollen und auf die Gerichte klicken. Dazu sieht man oben links noch einen Filter, den man je nach belieben benutzen kann. Nach dem Klicken auf das Gericht, wird man auf eine neue Website weitergeleitet, die eine TodoListe zu den jeweiligen Gerichten zeigt. Welche Rezepte braucht man und wie muss man vorgehen. Wenn die Todo-Liste und inkls Rezept gemacht worden ist, machen wir noch eine Funktion, wo man die Sprache wechseln kann.
 
 ## 4 Realisieren
 
