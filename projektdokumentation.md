@@ -96,8 +96,13 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 18.05 | Müller          |  20 Minuten             |  20 Minuten                 |
+| 2.A  | 01.06      |  Özden         |  45 Minuten             |  15 Minuten  |
+|2.B|01.06|Özden|45 Minuten|45 Minuten (Wegen Copyright Bildern)|
+||||||
+||||||
+||||||
+||||||
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
