@@ -38,7 +38,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Eine Tageszeit wurde Ausgewählt| Ein Gericht wird angeklickt | Es wird angezeigt, welche Zutaten noch benötigt werden |
 | 1.2  | Es wurde ein Gericht ausgewählt | Das Kästchen neben einer Zutat wird angeklickt | Im kästchen erscheint ein Häckchen |
-| 2.2  | Es wurde eine Tageszeit ausgewählt | Es wird unter "Filter" ein Element angeklickt | Es erscheinen nur Gerichte, die dem Filter entsprechen |
+| 2.1  | Es wurde eine Tageszeit ausgewählt | Es wird unter "Filter" ein Element angeklickt | Es erscheinen nur Gerichte, die dem Filter entsprechen |
 | 3.1  | Die Webseite wurde geöffnet | keine | Es wird eine Liste Mit 3 Tageszeiten angezeigt |
 | 3.2  | Die Webseite wurde geöffnet | Eine Tageszeit wird angeklickt | Es werden Passende Rezepte angezeigt |
 | 4.1  | Auf irgendeiner Seite der Webseite | Keine | Es wird am rechten Rand die Sprachauswahl angezeigt |
@@ -64,20 +64,19 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1  |  18.05     |           | Titel hinzufügen  |  20 Minuten             |
-| 2  |  18.05     |           | Gerichte raussuchen (Mit Informationen) | 45 Minuten |
-|2.A  |18.05 |             |  Gerichte hinzufügen inklusive Bilder        |    45 Minuten             |
-| 3  | 18.05      |           |   Filterkriterien hinzufügen           |    45 Minuten           |
-| 3.A  | 25.05      |           |   Filterkriterein den Gerichten zuordnen      |    75 Minuten           |
-| 5  | 25.05      |           |   Sprache der Website auf Französisch übersetzen     | 80 Minuten              |
-| 5.A  | 25.05      |           |   Sprache der Website auf Englisch übersetzen           |  45 Minuten             |
-| 6  |  25.05  |           | Die Gerichte sind klickbar             |     45 Minuten|
-| 7  | 01.06 |           | Das Klicken führt zu einer Unterseite             |   50 Minuten            |
-| 8  | 01.06 |           | Das Gericht wird genauer beschrieben(Bild/Text)|    20 Minuten           |
-| 9  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
-| 9.A  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
-| 10  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
-| 10.A  |  08.06     |           |   Nach jedem erledigtem Schritt, wird der nächste Schritt angezeigt           | 75 Minuten              |
+| 1.A  |  18.05     |           | Titel hinzufügen  |  20 Minuten             |
+| 2.A  |  18.05     |           | Gerichte raussuchen (Mit Informationen) | 45 Minuten |
+| 2.B  |18.05 |             |  Gerichte hinzufügen inklusive Bilder        |    45 Minuten             |
+| 3.A | 18.05      |           |   Filterkriterien hinzufügen           |    45 Minuten           |
+| 3.B  | 25.05      |           |   Filterkriterein den Gerichten zuordnen      |    75 Minuten           |
+| 4.A  | 25.05      |           |   Sprache der Website auf Französisch übersetzen     | 80 Minuten              |
+| 4.B  | 25.05      |           |   Sprache der Website auf Englisch übersetzen           |  45 Minuten             |
+| 6.A  |  25.05  |           | Die Gerichte sind klickbar             |     45 Minuten|
+| 5.A  | 01.06 |           | Das Klicken führt zu einer Unterseite             |   50 Minuten            |
+| 6.B  | 01.06 |           | Das Gericht wird genauer beschrieben(Bild/Text)|    20 Minuten           |
+| 6.C  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
+| 5.B  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
+| 5.C  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
@@ -89,11 +88,6 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | ...  |       |           |              |               |
 | ...  |       |           |              |               |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
