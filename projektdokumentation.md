@@ -76,21 +76,11 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 6.C  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
 | 5.B  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
 | 5.C  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
-| ...  |       |           |              |               |
 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Texte dazu anzeigt, man kann auf der Startseite runter scrollen und auf die Gerichte klicken. Dazu sieht man oben links noch einen Filter, den man je nach belieben benutzen kann. Nach dem Klicken auf das Gericht, wird man auf eine neue Website weitergeleitet, die eine TodoListe zu den jeweiligen Gerichten zeigt. Welche Rezepte braucht man und wie muss man vorgehen. 
 
 ## 4 Realisieren
 
@@ -99,6 +89,12 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 1.A  | 18.05 | Müller          |  20 Minuten             |  20 Minuten                 |
 | 2.A  | 01.06      |  Özden         |  45 Minuten             |  15 Minuten  |
 |2.B|01.06|Özden|45 Minuten|45 Minuten (Wegen Copyright Bildern)|
+|3.A|||||
+|3.B|||||
+|4.A|||||
+|4.B|||||
+||||||
+||||||
 ||||||
 ||||||
 ||||||
