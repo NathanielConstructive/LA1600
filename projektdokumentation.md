@@ -7,7 +7,7 @@ Blackberry - Müller, Özden, Meier
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 11.5. | 0.0.1   | Erster Prototyp der Website. |
-|       | 1.0.0   |                                                              |
+|  01.06     | 0.0.2   | Website mit Rezepten und guter Benutzeroberfläche (für den Anfang)|
 
 ## 1 Informieren
 
