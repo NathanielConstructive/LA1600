@@ -10,14 +10,26 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <script src="script.js"></script>
+  <script>function toggleTextVisibility(image) {
+    var text = image.nextElementSibling;
+    text.style.display = (text.style.display === 'none') ? 'block' : 'none';
+}
 
-  <script>
-    function toggleDarkMode() {
-      var body = document.querySelector('body');
-      body.classList.toggle('dark-mode');
+window.onload = function () {
+    document.querySelector('.cont_modal').className = "cont_modal";
+}
+var c = 0;
+function open_close() {
+    if (c % 2 == 0) {
+        document.querySelector('.cont_modal').className = "cont_modal cont_modal_active";
+        c++;
+    } else {
+        document.querySelector('.cont_modal').className = "cont_modal";
+        c++;
     }
-  </script>
+}</script>
+
+ 
 
 </head>
 
