@@ -70,10 +70,10 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 3.B  | 25.05      |           |   Filterkriterein den Gerichten zuordnen      |    75 Minuten           |
 | 4.A  | 25.05      |           |   Sprache der Website auf Französisch übersetzen     | 80 Minuten              |
 | 4.B  | 25.05      |           |   Sprache der Website auf Englisch übersetzen           |  45 Minuten             |
-| 6.A  |  25.05  |           | Die Gerichte sind klickbar             |     45 Minuten|
-| 5.A  | 01.06 |           | Das Klicken führt zu einer Unterseite             |   50 Minuten            |
-| 5.B  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
-| 5.C  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
+| 5.A  |  25.05  |           | Die Gerichte sind klickbar             |     45 Minuten|
+| 5.B  | 01.06 |           | Das Klicken führt zu einer Unterseite             |   50 Minuten            |
+| 5.C  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
+| 5.D  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
 | 6.A  | 01.06 |           | Das Gericht wird genauer beschrieben(Bild/Text)|    20 Minuten           |
 | 6.B  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
 
@@ -94,9 +94,10 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 |3.B|||||
 |4.A|||||
 |4.B|||||
-|5.A|14.06|Özden|50 Minuten|20 Minuten|
-|5.B|14.06|Özden|20 Minuten|20 Minuten|
-|5.C|14.06|Özden|45 Minuten|40 Minuten|
+|5.A|14.06|Özden|45 Minuten|50 Minuten|
+|5.B|14.06|Özden|50 Minuten|60 Minuten|
+|5.C|14.06|Özden|20 Minuten|25 Minuten|
+|5.D|21.06|Özden|45 Minuten|45 Minuten|
 |6.A|21.06|Özden|20 Minuten|35 Minuten|
 |6.B|21.06|Özden|45 Minuten|90 Minuten|
 
