@@ -49,7 +49,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 8.1  | Eine Tageszeit wurde Ausgewählt | Es wird ein Rezept angeklickt | Neben dem Bild steht ein Text, der Infos zum Gericht enthält |
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -72,10 +72,11 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 4.B  | 25.05      |           |   Sprache der Website auf Englisch übersetzen           |  45 Minuten             |
 | 6.A  |  25.05  |           | Die Gerichte sind klickbar             |     45 Minuten|
 | 5.A  | 01.06 |           | Das Klicken führt zu einer Unterseite             |   50 Minuten            |
-| 6.B  | 01.06 |           | Das Gericht wird genauer beschrieben(Bild/Text)|    20 Minuten           |
-| 6.C  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
 | 5.B  |  01.06     |           |   Die TodoListe ist anklickbar           |  20 Minuten             |
 | 5.C  |   08.06    |           |   TodoListe für die einzelne Schritte für das Gericht           | 45 Minuten              |
+| 6.A  | 01.06 |           | Das Gericht wird genauer beschrieben(Bild/Text)|    20 Minuten           |
+| 6.B  |  01.06     |           |  TodoListe für die Zutaten            |    45 Minuten           |
+
 
 
 ## 3 Entscheiden
@@ -86,19 +87,19 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 18.05 | Müller          |  20 Minuten             |  20 Minuten                 |
-| 2.A  | 01.06      |  Özden         |  45 Minuten             |  15 Minuten  |
+| 1.A  | 18.05 |Müller|  20 Minuten     |  20 Minuten                 |
+| 2.A  | 01.06 |Özden|  45 Minuten    |  15 Minuten  |
 |2.B|01.06|Özden|45 Minuten|45 Minuten (Wegen Copyright Bildern)|
 |3.A|||||
 |3.B|||||
 |4.A|||||
 |4.B|||||
-|5.A|01.06|Özden|50 Minuten|20 Minuten|
-|5.B|||||
-|5.C|||||
-|6.A|01.06|Özden|45 Minuten|35 Minuten|
-|6.B|||||
-|6.C|||||
+|5.A|14.06|Özden|50 Minuten|20 Minuten|
+|5.B|14.06|Özden|20 Minuten|20 Minuten|
+|5.C|14.06|Özden|45 Minuten|40 Minuten|
+|6.A|21.06|Özden|20 Minuten|35 Minuten|
+|6.B|21.06|Özden|45 Minuten|90 Minuten|
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
