@@ -2,124 +2,56 @@
 <html lang="de">
 
 <head>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sigmar&display=swap">
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>FlavorFrenzy</title>
-  <link rel="stylesheet" href="stylesheet.css" media="screen and (min-width: 600px)">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <script>function toggleTextVisibility(image) {
-    var text = image.nextElementSibling;
-    text.style.display = (text.style.display === 'none') ? 'block' : 'none';
-}
-
-window.onload = function () {
-    document.querySelector('.cont_modal').className = "cont_modal";
-}
-var c = 0;
-function open_close() {
-    if (c % 2 == 0) {
-        document.querySelector('.cont_modal').className = "cont_modal cont_modal_active";
-        c++;
-    } else {
-        document.querySelector('.cont_modal').className = "cont_modal";
-        c++;
-    }
-}</script>
-
- 
-
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
   <header>
-    <a href="about.html" class="link-button left">Über uns</a>
-    <img class="logo" src="logo_large.png" style="max-width: 100%;">
-    <a href="Rezepte.html" class="link-button right">Rezepte</a>
+    
+    <h2>FlavorFrenzy</h2>
+    
+ 
+   
+
   </header>
 
-  <nav class="menu menu-1">
-    <ul>
-      <li><a href="#">Recipes</a></li>
-      <li><a href="#">About</a></li>
-    </ul>
-  </nav>
-
-
-  <div class="cont_principal">
-    <div class="cont_central">
-      <div class="cont_modal cont_modal_active">
-        <div class="cont_photo">
-          <div class="cont_img_back">
-            <img src="lentil-5932977.jpg" alt="" />
-          </div>
-          <div class="cont_mins">
-            <div class="sub_mins">
-              <h3>x</h3>
-              <span>MINS</span>
-            </div>
-            <div class="cont_icon_right">
-              <a href="#"> <i class="material-icons">&#xE8E7;</i></a>
-            </div>
-          </div>
-          <div class="cont_servings">
-            <h3>x</h3>
-            <span>SERVINGS</span>
-          </div>
-          <div class="cont_detalles">
-            <h3>Mercimek Çorbası </h3>
-          </div>
-        </div>
-        <div class="cont_text_ingredients">
-          <div class="cont_over_hidden">
-
-            <div class="cont_tabs">
-              <ul>
-                <li><a href="#">
-                    <h4>INGREDIENTS</h4>
-                  </a></li>
-                <li><a href="#">
-                    <h4>ABOUT</h4>
-                  </a></li>
-              </ul>
-            </div>
-
-            <div class="cont_text_det_preparation">
-              <div class="cont_title_preparation">
-                <p>Mercimek Çorbası</p>
-              </div>
-              <div class="cont_info_preparation">
-                <p>Die Mercimek Çorbası ist eine würzige Linsensuppe, die gerne in der Türkei gegessen wird.
-                  Wie so oft hat natürlich jeder Haushalt sein eigenes Rezept für diese türkische Linsensuppe.
-                  Hauptbestandteil sind natürlich Linsen, aber auch weitere Aromen wie Zitrone und Minze verleihen
-                  diesem Bericht eine leichte orientalische Note.
-                </p>
-              </div>
-
-
-            </div>
-          </div>
-          <div class="cont_btn_mas_dets">
-            <a href="#"><i class="material-icons">&#xE313;</i></a>
-          </div>
-
-        </div>
-        <div class="cont_btn_open_dets">
-          <a href="#e" onclick="open_close()"><i class="material-icons">&#xE314;</i></a>
-        </div>
-
-      </div>
-    </div>
+  <div class="content">
+  <h2><a href="Rezept_Mercimek.html">Mercimek Çorbası</a></h2>
+      <img class="image"
+      src="mercimekCorbasi_Bild.jpg"
+      alt="Mecimek">
+    <p class="text">
+      Die Mercimek Çorbası ist eine würzige Linsensuppe, die gerne in der Türkei gegessen wird.
+     Wie so oft hat natürlich jeder Haushalt sein eigenes Rezept für diese türkische Linsensuppe. 
+     Hauptbestandteil sind natürlich Linsen, aber auch weitere Aromen wie Zitrone und Minze verleihen 
+      diesem Bericht eine leichte orientalische Note.
+    </p>
   </div>
-
-
+  <div class="content">
+    <h2><a href="Rezept_Sushi.html">Sushi</a></h2>
+    <img class="image"
+      src="Sushi_Bild.jpg"
+      alt="Sushi">
+    <p class="text">
+      Sushi ist ein beliebtes japanisches Gericht, das aus gesäuertem Reis, rohem Fisch oder Meeresfrüchten, Nori-Algenblättern, eingelegtem Ingwer und Wasabi besteht. Es gilt als Kunstform und erfordert eine umfangreiche Ausbildung. Die Haupttypen von Sushi sind Nigiri-Sushi, Maki-Sushi, Sashimi, Chirashi-Sushi und Inari-Sushi, von denen jeder seine eigenen Variationen hat.  
+    </p>
+  </div>  
+  <div class="content">                 
+     <h2><a href="Rezept_burrito.html">Burrito</a></h2>              
+    <img class="image"
+      src="burrito_Bild.jpg"
+      alt="Burrito">
+    <p class="text">
+      Ein Burrito ist ein mexikanisches Gericht, das aus einer großen Tortilla besteht, die mit verschiedenen Zutaten gefüllt und eingerollt wird. Die Tortilla besteht oft aus Weizenmehl und wird mit Fleisch, Bohnen, Reis, Käse, Gemüse und verschiedenen Saucen gefüllt. Beliebte Fleischsorten für Burritos sind Rindfleisch, Hühnchen, Schweinefleisch und manchmal auch Meeresfrüchte. Vegetarische Optionen sind ebenfalls weit verbreitet und beinhalten oft Bohnen, Käse, Gemüse und Guacamole. 
+    </p>
+  </div>
 
   <footer>
     <p>&copy; 2023 FlavorFrenzy</p>
   </footer>
-
 </body>
 
 </html>
