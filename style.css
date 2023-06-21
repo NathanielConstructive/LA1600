@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+header {
+    padding: 10px 16px;
+    background-image: url(https://previews.123rf.com/images/siamphotos/siamphotos1510/siamphotos151000134/47653970-closeup-photo-of-wet-home-grown-green-curly-lettuce-salad-leaves-in-the-garden.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+}
+
+h2 {
+    font-size: 40px;
+    margin-left: 1fr;
+    margin-right: 1fr;
+    color: rgb(108, 102, 104);
+    height: 80px;
+}
+
+#navigation {
+    text-align: center;
+    margin-top: 10px;
+    float: right;
+}
+#headline1{
+    text-align: center;
+    margin: 0px;
+    border-radius: 5%;
+    background: #a13131;
+    padding: 5%;
+    width: 200px;
+    height: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#headline2{
+    text-align: center;
+    margin: 0px;
+    border-radius: 5%;
+    background: #a13131;
+    padding: 5%;
+    width: 200px;
+    height: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navigation a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #250539;
+}
+
+.content {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 5%;
+    background: #c7c7c7;
+    padding: 5%;
+    width: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+.imagerecipe{
+    display: block;
+    margin-left: 0px ;
+    margin-right: 75px;
+    width: 35%;
+}
+.headline {
+    float: right;
+    font-size: large;
+    top: 0;
+}
+
+.headline2 {
+    float: left;
+    font-size: large;
+    top: 0;
+}
+
+.textrecipe{
+    text-align: right;
+}
+
+.body1 {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+}
+    
+.label1 {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+}
+    
+.input1[type="checkbox"] {
+      margin-right: 10px;
+}
+
+.text2{
+    text-align:center;
+}
+
+.Todo{
+    text-align:center ;
+}
