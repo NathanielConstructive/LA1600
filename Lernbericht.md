@@ -15,10 +15,11 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-'''<label>
+```html<label>
           <li><input type="checkbox">
           Petersilie zum Garnieren</li>
-        </label>'''
+        </label>
+```
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
