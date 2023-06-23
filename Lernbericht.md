@@ -15,15 +15,29 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-```html<label>
-          <li><input type="checkbox">
-          Petersilie zum Garnieren</li>
-        </label>
-```
+```CSS
 
+@media (pointer: fine) { #@media benutzt man, damit wenn man wie hier zum Beispiel mehrere Pointer hat, die Website diese unterscheidet.
+  input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+    border-width: 1px;
+    border-color: rgb(0, 0, 255);
+  }
+}
+
+@media (pointer: coarse) {
+  input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+    border-width: 2px;
+    border-color: red;
+  }
+}
+```
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
+
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
