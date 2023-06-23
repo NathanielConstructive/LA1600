@@ -44,7 +44,7 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 4.2  | Auf irgendeiner Seite der Webseite | Es wird eine Andere Sprache geklickt | Der Text wird in der ausgewählten Sprache angezeigt |
 | 5.1  | Eine Tageszeit wurde Ausgewählt  | Es wird ein Rezept angeklickt | Es werden 2 To-Do Listen angezeigt |
 | 6.1  | Eine Tageszeit wurde Ausgewählt  | Es wird ein Rezept angeklickt | Es werden Bild, Text und To-Do Listen des Gerichtes angezeigt |
-| 8.1  | Eine Tageszeit wurde Ausgewählt | Es wird ein Rezept angeklickt | Neben dem Bild steht ein Text, der Infos zum Gericht enthält |
+| 7.1  | Eine Tageszeit wurde Ausgewählt | Es wird ein Rezept angeklickt | Neben dem Bild steht ein Text, der Infos zum Gericht enthält |
 
 
 
@@ -108,7 +108,7 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 | 4.2  | 22.06.2023 | funkioniert nicht | Özden |
 | 5.1  | 22.06.2023   | funkioniert | Özden |
 | 6.1  | 22.06.2023  | funktioniert | Özden |
-| 8.1  | 22.06.2023 | funktioniert nicht |Özden|
+| 7.1  | 22.06.2023 | funktioniert nicht |Özden|
 
 Das Aussehen der Website ist gelungen, jedoch sollte man noch mehr Features hinzufügen, welches die Suche der Gerichte vereinfachen würde.
 
