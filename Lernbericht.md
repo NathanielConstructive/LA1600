@@ -26,10 +26,9 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
-Wir haben anfangs gut abgemacht wie unsere Website aussieht.
+👍 Wir haben anfangs gut abgemacht wie unsere Website aussieht.
 
-👎 und etwas, was nicht gut lief.
-Es wurde nicht viel für die Website gearbeitet
+👎 Es wurde nicht viel für die Website gearbeitet.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat.
