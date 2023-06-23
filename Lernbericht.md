@@ -15,6 +15,11 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
+'''<label>
+          <li><input type="checkbox">
+          Petersilie zum Garnieren</li>
+        </label>'''
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
@@ -30,5 +35,4 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 👎 Es wurde nicht viel für die Website gearbeitet.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
 Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat.
