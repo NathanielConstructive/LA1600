@@ -17,16 +17,16 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 ```CSS
 
-@media (pointer: fine) { #@media benutzt man, damit wenn man wie hier zum Beispiel mehrere Pointer hat, die Website diese unterscheidet.
+@media (pointer: fine) { /*@media benutzt man, damit wenn man wie hier zum Beispiel mehrere Pointer hat, die Website diese unterscheidet.*/
   input[type="checkbox"] {
     width: 15px;
     height: 15px;
     border-width: 1px;
     border-color: rgb(0, 0, 255);
-  }
+  } /*"width" bis "border-color" beschreibt das Aussehen der Checkbox, falls der Pointer fine ist, also wenn man eine Maus benutzt.*/
 }
 
-@media (pointer: coarse) {
+@media (pointer: coarse) {/*Hier wird beschrieben wie die Checkbox aussieht, falls Der Pointer course ist, also wenn man die Maschine mit Touch benutzt.*/
   input[type="checkbox"] {
     width: 30px;
     height: 30px;
@@ -35,6 +35,7 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
   }
 }
 ```
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
