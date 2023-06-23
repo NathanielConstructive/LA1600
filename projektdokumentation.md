@@ -90,19 +90,12 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 | 1.A  | 18.05 |Müller|  20 Minuten     |  20 Minuten                 |
 | 2.A  | 01.06 |Özden|  45 Minuten    |  15 Minuten  |
 |2.B|01.06|Özden|45 Minuten|45 Minuten (Wegen Copyright Bildern)|
-|3.A|||||
-|3.B|||||
-|4.A|||||
-|4.B|||||
 |5.A|14.06|Özden|45 Minuten|50 Minuten|
 |5.B|14.06|Özden|50 Minuten|60 Minuten|
 |5.C|14.06|Özden|20 Minuten|25 Minuten|
 |5.D|21.06|Özden|45 Minuten|45 Minuten|
 |6.A|21.06|Özden|20 Minuten|35 Minuten|
 |6.B|21.06|Özden|45 Minuten|90 Minuten|
-
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
