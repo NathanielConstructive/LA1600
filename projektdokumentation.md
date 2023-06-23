@@ -102,7 +102,7 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 | 1.1  | 22.06.2023| Ein Gericht ist anklickbar |Özden |
 | 1.2  |22.06.2023  | Das Kästchen kann ausgefüllt werden | Özden |
 | 2.1  | 22.06.2023 | funktioniert nicht | Özden |
-| 3.1  | 22.06.2023 | funktioniert | Özden |
+| 3.1  | 22.06.2023 | funktioniert nicht | Özden |
 | 3.2  | 22.06.2023 |funktioniert nicht |Özden |
 | 4.1  | 22.06.2023 | funktioniert nicht |Özden |
 | 4.2  | 22.06.2023 | funkioniert nicht | Özden |
