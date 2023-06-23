@@ -28,6 +28,8 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 Wir haben anfangs gut abgemacht wie unsere Website aussieht.
+
 👎 und etwas, was nicht gut lief.
 Es wurde nicht viel für die Website gearbeitet
+
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
