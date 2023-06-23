@@ -44,8 +44,6 @@ Wir charakterisieren dabei ein Gericht genauer und schreiben eine Rezeptidee (in
 | 4.2  | Auf irgendeiner Seite der Webseite | Es wird eine Andere Sprache geklickt | Der Text wird in der ausgewählten Sprache angezeigt |
 | 5.1  | Eine Tageszeit wurde Ausgewählt  | Es wird ein Rezept angeklickt | Es werden 2 To-Do Listen angezeigt |
 | 6.1  | Eine Tageszeit wurde Ausgewählt  | Es wird ein Rezept angeklickt | Es werden Bild, Text und To-Do Listen des Gerichtes angezeigt |
-| 7.1  | Auf irgendeiner Seite der Webseite  | Es wird auf das Suchen-Element geklickt | Es kann nun der Name eines Gerichtes eingegeben werden |
-| 7.2  | Auf irgendeiner Seite der Webseite | Es wird etwas in die Suche eingegeben | Es erscheinen Gerichte, die die gesuchten Wörter enthalten |
 | 8.1  | Eine Tageszeit wurde Ausgewählt | Es wird ein Rezept angeklickt | Neben dem Bild steht ein Text, der Infos zum Gericht enthält |
 
 
@@ -101,10 +99,18 @@ Wir haben uns entschieden, eine Website zu erstellen, die Gerichte und kleine Te
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 22.06.2023| Ein Gericht ist anklickbar |Özden |
+| 1.2  |22.06.2023  | Das Kästchen kann ausgefüllt werden | Özden |
+| 2.1  | 22.06.2023 | funktioniert nicht | Özden |
+| 3.1  | 22.06.2023 | funktioniert | Özden |
+| 3.2  | 22.06.2023 |funktioniert nicht |Özden |
+| 4.1  | 22.06.2023 | funktioniert nicht |Özden |
+| 4.2  | 22.06.2023 | funkioniert nicht | Özden |
+| 5.1  | 22.06.2023   | funkioniert | Özden |
+| 6.1  | 22.06.2023  | funktioniert | Özden |
+| 8.1  | 22.06.2023 | funktioniert nicht |Özden|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Aussehen der Website ist gelungen, jedoch sollte man noch mehr Features hinzufügen, welches die Suche der Gerichte vereinfachen würde.
 
 ## 6 Auswerten
 
