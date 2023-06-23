@@ -1,13 +1,15 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Blackberry
+
+Özden, Müller, Meier
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt ging darum, eine Rezeptwebsite zu programmieren, die Anleitungen und Rezepte zu Gerichten zeigt.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 ## Beschreibung
 
@@ -25,7 +27,7 @@
 # Reflexion zum Arbeitsprozess
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
-
+Wir haben anfangs gut abgemacht wie unsere Website aussieht.
 👎 und etwas, was nicht gut lief.
-
+Es wurde nicht viel für die Website gearbeitet
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
