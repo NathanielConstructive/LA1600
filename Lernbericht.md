@@ -35,6 +35,9 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
   }
 }
 ```
+![spaghetti_Touch](https://github.com/NathanielConstructive/LA1600/assets/111046193/b36c8c1e-d093-4bc7-878b-d8acd8773272)
+![SSpaghetti_Touch](https://github.com/NathanielConstructive/LA1600/assets/111046193/eb69fcd7-c3a1-4d85-ae75-ef875b6960c4)
+
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
