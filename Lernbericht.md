@@ -1,15 +1,15 @@
 # Lern-Bericht
-Blackberry
+**Blackberry**
 
 Özden, Müller, Meier
 
 ## Einleitung
 
-In unserem Projekt ging darum, eine Rezeptwebsite zu programmieren, die Anleitungen und Rezepte zu Gerichten zeigt.
+In unserem Projekt ging darum, eine **Rezeptwebsite** zu programmieren, die Anleitungen und Rezepte zu Gerichten zeigt.
 
 ## Was habe ich gelernt?
 
-Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
+Wir haben gelernt wie man **Checkboxen** je für einen Pointer programmiert.
 
 ## Beschreibung
 
@@ -47,13 +47,13 @@ Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kan
 ## Verifikation
 
 ### Medium 1:
-Medium 1 zeigt Textlich, was wir gelernt haben, anhand dem Code.
+Medium 1 zeigt **Textlich**, was wir gelernt haben, anhand dem Code.
 
 ### Medium 2:
-Das zweite Medium zeigt den Code Schnipsel und ein Beispiel wie die Checkbox aussieht.
+Das zweite Medium zeigt den **Code Schnipsel** und ein Beispiel wie die Checkbox aussieht.
 
 ### Medium 3:
-Das dritte Medium zeigt visuell, wie der Unterschied zwischen Touch und der Maus aussieht.
+Das dritte Medium zeigt **visuell**, wie der Unterschied zwischen Touch und der Maus aussieht.
 
 # Reflexion zum Arbeitsprozess
 
@@ -61,4 +61,4 @@ Das dritte Medium zeigt visuell, wie der Unterschied zwischen Touch und der Maus
 
 👎 Es wurde nicht viel für die Website gearbeitet.
 
-Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat.
+Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat oder nicht weiss was wer machen muss.
