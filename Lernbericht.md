@@ -13,8 +13,12 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
+Medium 1:
+
+Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kann. Ein Pointer ist die Art wie man die Maschine benutzt, sei es mit der Maus, touch etc. Mit "@media" unterscheidet die Website den Pointer, man muss dann den Pointer den man auswählen möchte zum Code hinzufügen und dann noch wie die Checkbox überhaupt aussehen soll. 
+
+Medium 2:
 ```CSS
 
 @media (pointer: fine) { /*@media benutzt man, damit wenn man wie hier zum Beispiel mehrere Pointer hat, die Website diese unterscheidet.*/
@@ -35,18 +39,21 @@ Wir haben gelernt wie man Checkboxen je für einen Pointer programmiert.
   }
 }
 ```
+Medium 3:
 ![spaghetti_Touch](https://github.com/NathanielConstructive/LA1600/assets/111046193/b36c8c1e-d093-4bc7-878b-d8acd8773272)
+
 ![SSpaghetti_Touch](https://github.com/NathanielConstructive/LA1600/assets/111046193/eb69fcd7-c3a1-4d85-ae75-ef875b6960c4)
-
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Medium 1:
+Medium 1 zeigt Textlich, was wir gelernt haben, anhand dem Code.
+
+Medium 2:
+Das zweite Medium zeigt den Code Schnipsel und ein Beispiel wie die Checkbox aussieht.
+
+Medium 3:
+Das dritte Medium zeigt visuell, wie der Unterschied zwischen Touch und der Maus aussieht.
 
 # Reflexion zum Arbeitsprozess
 
