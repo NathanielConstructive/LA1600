@@ -16,7 +16,7 @@ Wir haben gelernt wie man **Checkboxen** je für einen Pointer programmiert.
 
 ### Medium 1:
 
-Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kann. Ein Pointer ist die Art wie man die Maschine benutzt, sei es mit der Maus, touch etc. Mit "@media" unterscheidet die Website den Pointer, man muss dann den Pointer den man auswählen möchte zum Code hinzufügen und dann noch wie die Checkbox überhaupt aussehen soll. 
+Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kann. Ein Pointer ist die Art wie man die Maschine benutzt, sei es mit der Maus, touch etc. Mit **"@media"** unterscheidet die Website den Pointer, man muss dann den Pointer den man auswählen möchte zum Code hinzufügen und dann noch wie die Checkbox überhaupt aussehen soll. 
 
 ### Medium 2:
 ```CSS
