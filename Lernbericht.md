@@ -9,14 +9,14 @@ In unserem Projekt ging darum, eine **Rezeptwebsite** zu programmieren, die Anle
 
 ## Was habe ich gelernt?
 
-Wir haben gelernt wie man **Checkboxen** je für einen Pointer programmiert.
+Wir haben gelernt, wie man **Checkboxen** je für einen Pointer programmiert.
 
 ## Beschreibung
 
 
 ### Medium 1:
 
-Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kann. Ein Pointer ist die Art wie man die Maschine benutzt, sei es mit der Maus, touch etc. Mit **"@media"** unterscheidet die Website den Pointer, man muss dann den Pointer den man auswählen möchte zum Code hinzufügen und dann noch wie die Checkbox überhaupt aussehen soll. 
+Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kann. Ein Pointer ist die Art wie man die Maschine benutzt, sei es mit der Maus, Touch etc. Mit **"@media"** unterscheidet die Website den Pointer, man muss dann den Pointer, den man auswählen möchte, zum Code hinzufügen und dann noch wie die Checkbox überhaupt aussehen soll. 
 
 ### Medium 2:
 ```CSS
@@ -47,7 +47,7 @@ Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kan
 ## Verifikation
 
 ### Medium 1:
-Medium 1 zeigt **Textlich**, was wir gelernt haben, anhand dem Code.
+Medium 1 zeigt **textlich**, was wir gelernt haben, anhand des Codes.
 
 ### Medium 2:
 Das zweite Medium zeigt den **Code Schnipsel** und ein Beispiel wie die Checkbox aussieht.
@@ -57,8 +57,8 @@ Das dritte Medium zeigt **visuell**, wie der Unterschied zwischen Touch und der 
 
 # Reflexion zum Arbeitsprozess
 
-👍 Wir haben anfangs gut abgemacht wie unsere Website aussieht.
+👍 Wir haben anfangs gut abgemacht, wie unsere Website aussieht.
 
 👎 Es wurde nicht viel für die Website gearbeitet.
 
-Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat oder nicht weiss was wer machen muss.
+Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat oder nicht weiss, was wer machen muss.
