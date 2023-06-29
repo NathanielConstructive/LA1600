@@ -47,18 +47,18 @@ Wir haben gelernt, wie man Checkboxen je nach Pointer anders anzeigen lassen kan
 ## Verifikation
 
 ### Medium 1:
-Medium 1 zeigt **textlich**, was wir gelernt haben, anhand des Codes.
+Medium 1 zeigt **in Textform**, anhand des Codes, was wir gelernt haben. Es erklärt die Pointerfunktion kurz.
 
 ### Medium 2:
-Das zweite Medium zeigt den **Code Schnipsel** und ein Beispiel wie die Checkbox aussieht.
+Das zweite Medium zeigt das **Code Schnipsel** und ein Beispiel, wie die Checkbox aussieht. Mithilfe von Kommentaren kann man nachvollziehen was wo passiert. 
 
 ### Medium 3:
-Das dritte Medium zeigt **visuell**, wie der Unterschied zwischen Touch und der Maus aussieht.
+Das dritte Medium zeigt **visuell**, wie der Unterschied zwischen Touch und einem Mauspointer aussieht. 
 
 # Reflexion zum Arbeitsprozess
 
-👍 Wir haben anfangs gut abgemacht, wie unsere Website aussieht.
+👍 Wir haben **Anfangs** gut abgemacht, wie unsere Website aussieht, und schnelle Fortschritte in der Entwicklung gemacht. 
 
-👎 Es wurde nicht viel für die Website gearbeitet.
+👎 Wir haben im **Laufe des Projektes** immer weniger Zeit in das aktive Programmieren gesteckt. 
 
-Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat oder nicht weiss, was wer machen muss.
+Nächstes Mal müssen wir mehr kommunizieren, wenn man zum Beispiel etwas nicht gemacht hat oder nicht weiss, was wer machen muss. So können wir sicherstellen, dass die Webseite aktiv aktualisiert wird. 
