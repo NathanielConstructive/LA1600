@@ -114,4 +114,4 @@ Das Aussehen der Website ist gelungen, jedoch sollte man noch mehr Features hinz
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/NathanielConstructive/LA1600/blob/main/Lernbericht.md
